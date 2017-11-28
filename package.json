@@ -10,7 +10,7 @@
   ],
   "author": "Teddy Katz",
   "files": [
-    "./index.js",
+    "./index.js"
   ],
   "main": "./index.js",
   "scripts": {
