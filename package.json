@@ -10,9 +10,9 @@
   ],
   "author": "Teddy Katz",
   "files": [
-    "eslint-plugin-prettier.js"
+    "./index.js",
   ],
-  "main": "eslint-plugin-prettier.js",
+  "main": "./index.js",
   "scripts": {
     "lint": "eslint .",
     "test": "npm run lint && mocha"
